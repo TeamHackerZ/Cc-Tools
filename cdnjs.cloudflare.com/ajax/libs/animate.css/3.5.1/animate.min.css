@@ -1,0 +1,17 @@
+HTTP/1.1 304 Not Modified
+Date: Tue, 12 Oct 2021 10:37:03 GMT
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=30672000
+ETag: "5eb03d2a-ce35"
+Last-Modified: Mon, 04 May 2020 16:04:58 GMT
+cf-cdnjs-via: cfworker/kv
+Cross-Origin-Resource-Policy: cross-origin
+Timing-Allow-Origin: *
+X-Content-Type-Options: nosniff
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+CF-Cache-Status: HIT
+Age: 299
+Expires: Sun, 02 Oct 2022 10:37:03 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Q9L%2FR4Vp16fMUNCpmx92ewx0YQrsnbWpYqOE5%2BTRkK6HW3%2FBrE5QVylWcO%2FyA3Ct7EvP1IiGpab94W5pHwWw0Rvl

@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Oct 2021 16:06:54 at https://ninja-checker.herokuapp.com/ https://ninja-checker.herokuapp.com/checker.php https://ninja-checker.herokuapp.com/CCGen.php https://ninja-checker.herokuapp.com/skgen.php https://ninja-checker.herokuapp.com/LoginSuccess.php https://ninja-checker.herokuapp.com/skcheck.php https://ninja-checker.herokuapp.com/About.php https://ninja-checker.herokuapp.com/login_code.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ninja-checker.herokuapp.com/ https://ninja-checker.herokuapp.com/checker.php https://ninja-checker.herokuapp.com/CCGen.php https://ninja-checker.herokuapp.com/skgen.php https://ninja-checker.herokuapp.com/LoginSuccess.php https://ninja-checker.herokuapp.com/skcheck.php https://ninja-checker.herokuapp.com/About.php https://ninja-checker.herokuapp.com/login_code.php -O1 "C:\Users\Test\Webpages\CC Tools HTML" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:07:55	Error: 	"Not Found" (404) at link https://ninja-checker.herokuapp.com/js/main.js (from https://ninja-checker.herokuapp.com/)
+16:10:09	Error: 	"Not Found" (404) at link https://ninja-checker.herokuapp.com/blop.mp3 (from https://ninja-checker.herokuapp.com/checker.php)
+16:10:09	Error: 	"Not Found" (404) at link https://ninja-checker.herokuapp.com/arquivos/jquery.min.js(1) (from https://ninja-checker.herokuapp.com/checker.php)
+16:10:09	Error: 	"Not Found" (404) at link https://ninja-checker.herokuapp.com/Ninja.png (from https://ninja-checker.herokuapp.com/CCGen.php)
+16:10:09	Error: 	"Not Found" (404) at link https://ninja-checker.herokuapp.com/edge/ (from https://ninja-checker.herokuapp.com/CCGen.php)
+16:10:09	Error: 	"Not Found" (404) at link https://ninja-checker.herokuapp.com/images/logo.png?5294b12fea91754d39d8c1ccd5716627 (from https://ninja-checker.herokuapp.com/CCGen.php)
+16:10:09	Error: 	"Cancelled by User" (-1) at link https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css (from https://ninja-checker.herokuapp.com/LoginSuccess.php)
+16:10:09	Error: 	"Cancelled by User" (-1) at link https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css (from https://ninja-checker.herokuapp.com/LoginSuccess.php)
+16:10:09	Error: 	"Cancelled by User" (-1) at link https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js (from https://ninja-checker.herokuapp.com/LoginSuccess.php)
+16:10:09	Error: 	"Cancelled by User" (-1) at link https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js (from https://ninja-checker.herokuapp.com/LoginSuccess.php)
+16:10:09	Error: 	"Cancelled by User" (-1) at link https://ninja-checker.herokuapp.com/assets/js/core/jquery.min.js (from https://ninja-checker.herokuapp.com/skcheck.php)
+16:10:09	Error: 	"Cancelled by User" (-1) at link https://ninja-checker.herokuapp.com/assets/js/plugins/chartjs.min.js (from https://ninja-checker.herokuapp.com/skcheck.php)
+16:10:09	Error: 	"Not Found" (404) at link https://ninja-checker.herokuapp.com/about.php (from https://ninja-checker.herokuapp.com/About.php)
+16:10:09	Error: 	"Not Found" (404) at link https://ninja-checker.herokuapp.com/img/multiselect-switch.png (from https://ninja-checker.herokuapp.com/arquivos/style.default.premium.css)
+16:10:09	Error: 	"Not Found" (404) at link https://ninja-checker.herokuapp.com/img/bg.jpg (from https://ninja-checker.herokuapp.com/arquivos/style.default.premium.css)
+16:10:09	Error: 	"Forbidden" (403) at link https://static.comingsoonpage.com/cspio-assets/1.0.0/bigvideo.png (from https://static.comingsoonpage.com/cspio-assets/1.0.0/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 15 seconds : 64 links scanned, 47 files written (7247153 bytes overall), 12 files updated [413870 bytes received at 2122 bytes/sec], 125787 bytes transferred using HTTP compression in 4 files, ratio 65%, 2.0 requests per connection
+(16 errors, 0 warnings, 0 messages)

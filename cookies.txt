@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ninja-checker.herokuapp.com	TRUE	/	FALSE	1999999999	PHPSESSID	go00ernlbqk2ougp10g72e6u4j1l7m45
+

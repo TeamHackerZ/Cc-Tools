@@ -1,0 +1,22 @@
+HTTP/1.1 304 Not Modified
+Date: Tue, 12 Oct 2021 10:36:28 GMT
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=30672000
+ETag: "5eb03e5f-6b4a"
+Last-Modified: Mon, 04 May 2020 16:10:07 GMT
+cf-cdnjs-via: cfworker/kv
+Cross-Origin-Resource-Policy: cross-origin
+Timing-Allow-Origin: *
+X-Content-Type-Options: nosniff
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding
+CF-Cache-Status: HIT
+Age: 265
+Expires: Sun, 02 Oct 2022 10:36:28 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=n%2FRGyRvuGKVwQPMszUGeBDcCJ0xXDQvD3bL5XIDksN3rWF0cVGWWibs5L%2Bw%2BEZNfoWPDwHvGm2gII5hlvNm9bqKikSfauDlIFgDs1WijOLhGtTGgq2oRHqom%2BtG2RCqc3ay96aGAQeJ0wy9Z5kA3pfoo"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Strict-Transport-Security: max-age=15780000
+Server: cloudflare
+CF-RAY: 69cfaff69ac43233-FRA
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400, h3-28=":443"; ma=86400, h3-2
